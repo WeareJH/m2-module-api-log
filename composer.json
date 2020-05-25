@@ -1,7 +1,7 @@
 {
   "name": "wearejh/m2-module-api-log",
   "description": "Web/GraphQL API request logging",
-  "license": "proprietary",
+  "license": "MIT",
   "type": "magento2-module",
   "autoload": {
     "files": [ "registration.php" ],

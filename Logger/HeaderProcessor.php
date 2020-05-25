@@ -2,9 +2,6 @@
 
 namespace Jh\ApiLog\Logger;
 
-/**
- * @author Michael Woodward <michael@wearejh.com>
- */
 class HeaderProcessor
 {
     public function __invoke(array $record)

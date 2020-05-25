@@ -8,9 +8,6 @@ use Magento\Framework\App\RequestInterface;
 use Magento\Webapi\Controller\Rest;
 use Psr\Log\LoggerInterface;
 
-/**
- * @author Michael Woodward <michael@wearejh.com>
- */
 class LogPayload
 {
     /**

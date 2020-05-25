@@ -2,9 +2,6 @@
 
 namespace Jh\ApiLog\Logger;
 
-/**
- * @author Michael Woodward <michael@wearejh.com>
- */
 class PayloadProcessor
 {
     public function __invoke(array $record)
